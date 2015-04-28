@@ -20,7 +20,7 @@ class Data_Duplication extends MY_Controller {
 		$data['styles'] = array("jquery-ui.css");
 		$data['scripts'] = array("jquery-ui.js");
 		$data['quick_link'] = "data_duplication";
-		$data['title'] = "Data Quality";
+		//$data['title'] = "Data Quality";
 		$data['content_view'] = "data_quality_v";
 		$data['banner_text'] = "Data Duplication";
 		$data['link'] = "data_quality_management";
